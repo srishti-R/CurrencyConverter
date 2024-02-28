@@ -3,3 +3,4 @@ What makes it special?
 * TDD
 * landscape mode supported
 * MVVM architecture
+* Data caching so currency exchange rates updated only after 30 minutes
